@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/canteen-dyp/static/css/main.cb5e2905.css",
+    "main.js": "/canteen-dyp/static/js/main.cd2ba0d6.js",
+    "static/media/back-3.jpg": "/canteen-dyp/static/media/back-3.512302c6cf896e6e4daf.jpg",
+    "static/media/pic_profile.jpg": "/canteen-dyp/static/media/pic_profile.1a8f442db408ed6fdb48.jpg",
+    "static/media/Team.png": "/canteen-dyp/static/media/Team.42134860ae4c58e3bd8d.png",
+    "static/media/Printer.png": "/canteen-dyp/static/media/Printer.09681e0aa98d05b28936.png",
+    "static/media/Linkedin.png": "/canteen-dyp/static/media/Linkedin.6ad6a2a824e3d0059faa.png",
+    "static/media/Github.png": "/canteen-dyp/static/media/Github.05f6c17b8cd04c28456f.png",
+    "index.html": "/canteen-dyp/index.html",
+    "main.cb5e2905.css.map": "/canteen-dyp/static/css/main.cb5e2905.css.map",
+    "main.cd2ba0d6.js.map": "/canteen-dyp/static/js/main.cd2ba0d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb5e2905.css",
+    "static/js/main.cd2ba0d6.js"
+  ]
+}
